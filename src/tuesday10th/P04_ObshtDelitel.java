@@ -38,6 +38,7 @@ public class P04_ObshtDelitel {
 						delimitersToBeRemoved.add(delitel);
 					}
 				}
+				System.out.println("tova ne e gadno");
 				for(int delete:delimitersToBeRemoved){
 					delimiters.remove(delete);
 				}
