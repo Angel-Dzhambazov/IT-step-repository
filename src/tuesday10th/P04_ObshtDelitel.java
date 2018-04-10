@@ -31,6 +31,7 @@ public class P04_ObshtDelitel {
 						delimiters.add(j);
 					}
 				}
+				delimiters.add(array[i]);
 			} else{
 				int currentDigit = array[i];
 				for(int delitel: delimiters){
