@@ -1,0 +1,17 @@
+-- vyvejdat se 5 chisla, tyrsqt se ob6tite im mnojiteli 
+
+4
+56
+336
+1008
+882
+
+
+--
+
+5
+60
+495
+1515
+450
+150
